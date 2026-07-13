@@ -1,0 +1,6 @@
+{
+  "name": "Rule-Based AI Chatbot",
+  "description": "A premium, responsive, glassmorphic chatbot interface built on rule-based logic to simulate intelligent conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
